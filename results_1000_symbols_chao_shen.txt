@@ -1,0 +1,76 @@
+============================================================
+P1 DISTRIBUTION
+============================================================
+  100 samples → Bias: NaN, RMSE: NaN
+  200 samples → Bias: 0.0451, RMSE: 0.231
+  300 samples → Bias: 0.0487, RMSE: 0.155
+  500 samples → Bias: 0.0501, RMSE: 0.0925
+  1000 samples → Bias: 0.0912, RMSE: 0.0995
+  2000 samples → Bias: 0.126, RMSE: 0.1281
+  5000 samples → Bias: -0.0036, RMSE: 0.0069
+
+============================================================
+P2 DISTRIBUTION
+============================================================
+  100 samples → Bias: -0.2579, RMSE: 0.3332
+  200 samples → Bias: -0.2065, RMSE: 0.2356
+  300 samples → Bias: -0.1922, RMSE: 0.2094
+  500 samples → Bias: -0.1441, RMSE: 0.1563
+  1000 samples → Bias: -0.0828, RMSE: 0.0911
+  2000 samples → Bias: -0.0366, RMSE: 0.0454
+  5000 samples → Bias: -0.0121, RMSE: 0.02
+
+============================================================
+P3 DISTRIBUTION
+============================================================
+  100 samples → Bias: -0.1852, RMSE: 0.2349
+  200 samples → Bias: -0.1151, RMSE: 0.1496
+  300 samples → Bias: -0.0762, RMSE: 0.107
+  500 samples → Bias: -0.0416, RMSE: 0.0698
+  1000 samples → Bias: -0.0155, RMSE: 0.0424
+  2000 samples → Bias: -0.0017, RMSE: 0.0286
+  5000 samples → Bias: 0.0018, RMSE: 0.018
+
+============================================================
+P4 DISTRIBUTION
+============================================================
+  100 samples → Bias: -0.1059, RMSE: 0.1666
+  200 samples → Bias: -0.054, RMSE: 0.0977
+  300 samples → Bias: -0.0423, RMSE: 0.0782
+  500 samples → Bias: -0.0324, RMSE: 0.0594
+  1000 samples → Bias: -0.0205, RMSE: 0.0423
+  2000 samples → Bias: -0.0069, RMSE: 0.0274
+  5000 samples → Bias: -0.0007, RMSE: 0.0167
+
+============================================================
+P5 DISTRIBUTION
+============================================================
+  100 samples → Bias: -0.006, RMSE: 0.1786
+  200 samples → Bias: 0.0165, RMSE: 0.1345
+  300 samples → Bias: 0.0208, RMSE: 0.1074
+  500 samples → Bias: 0.0278, RMSE: 0.0926
+  1000 samples → Bias: 0.0279, RMSE: 0.0664
+  2000 samples → Bias: 0.0254, RMSE: 0.0505
+  5000 samples → Bias: 0.0222, RMSE: 0.0348
+
+============================================================
+P6 DISTRIBUTION
+============================================================
+  100 samples → Bias: -0.6371, RMSE: 0.672
+  200 samples → Bias: -0.439, RMSE: 0.46
+  300 samples → Bias: -0.3231, RMSE: 0.3443
+  500 samples → Bias: -0.1931, RMSE: 0.2141
+  1000 samples → Bias: -0.0488, RMSE: 0.0843
+  2000 samples → Bias: 0.0382, RMSE: 0.0624
+  5000 samples → Bias: 0.0688, RMSE: 0.0756
+
+============================================================
+P7 DISTRIBUTION
+============================================================
+  100 samples → Bias: NaN, RMSE: NaN
+  200 samples → Bias: -0.1899, RMSE: 0.2639
+  300 samples → Bias: -0.1731, RMSE: 0.2149
+  500 samples → Bias: -0.1166, RMSE: 0.1421
+  1000 samples → Bias: -0.0248, RMSE: 0.0524
+  2000 samples → Bias: 0.0508, RMSE: 0.0583
+  5000 samples → Bias: 0.0253, RMSE: 0.0285
